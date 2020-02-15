@@ -1,0 +1,22 @@
+---
+title: "ms_2"
+author: "Sam Saba"
+date: "2/14/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+US Immigration Explorer
+
+https://mengxitan.shinyapps.io/Immigration_Explorer/
+
+This final project offers a really interesting new lens on such a big issue; the United State’s has been receiving immigrants since its inception, but this project shows the interesting immigration trends through various graphs and sets of data. I loved the animated bar graph of immigrants from the top 10 countries, and the level of detail, the colors, the specific labels make it significantly easier to reach the non-stat. audience. I do appreciate the various tabs and the amount of effort that the creator of this project put into it. I believe mine will look similar to this as I too wish to have a graph animated by years and am analyzing a similar issue. The creator also had an interesting video and “how-to” on the about page which made it even more accessible to its intended audience. I hope to make my final as accessible and widely-understood as this one in order to get my comment on the United States and global conflict/intervention. 
+
+Housing Prices in Three Major US Cities
+
+https://szheng5.shinyapps.io/housing-explorations-app/
+
+This final project also offers an interesting perspective to a domestic issue. The main graph posted on the shiny app shows the set of data in a variety of ways from a reliable website (Zillow) which bolsters its reliability. The about page, similar to the last one offers a lot of necessary context to understanding the data. Now, this final project could’ve had more data and analysis in order to aid its audience because it can be difficult to understand the importance did the data (i.e. like the rental value versus the rent list price). However, the separate income graph was a really interesting depiction of the differences in income in each of the analyzed cities, but, if I had to say comment on something, I would say that I wish that the income graph was somehow on the same graph as the rental prices graph in order to more easily emulate the correlation (or causation) of income and prices.
